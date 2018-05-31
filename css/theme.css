@@ -8,3 +8,7 @@ body {
 p {
     color: black;
     font-family: 'Gothic A1', sans-serif;
+}
+iframe {
+    text-align: right;
+}
